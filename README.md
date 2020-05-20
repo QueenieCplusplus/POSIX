@@ -19,6 +19,18 @@ Portable OS Interface, 可攜式作業系統介面
 
 * ksh
 
+* pdksh
+
+* ash
+
+* dash
+
+* csh
+
+*tcsh
+
+* osh
+
 建立腳本的方式有兩種：
 
 -[X] 獨立執行的腳本
