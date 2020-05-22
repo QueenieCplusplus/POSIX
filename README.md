@@ -11,6 +11,8 @@ Portable OS Interface, 可攜式作業系統介面
 
 執行命令環境有很多種，例如：
 
+https://github.com/QueenieCplusplus/LinuxShell_cmd/blob/master/README.md#execution-執行
+
 * bash
 
 * sh
@@ -27,7 +29,7 @@ Portable OS Interface, 可攜式作業系統介面
 
 * csh
 
-*tcsh
+* tcsh
 
 * osh
 
